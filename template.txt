@@ -1,0 +1,15 @@
+{
+    "name": {{NAME}},
+    "symbol": {{SYMBOL}},
+    "description": {{DESCRIPTION}},
+    "image": {{IMAGE}},
+    "attributes": {{ATTRIBUTES}},
+    "properties": {
+        "files": [
+            {
+                "uri": {{URI}},
+                "type": {{TYPE}}
+            }
+        ]
+    }
+}
